@@ -1,4 +1,4 @@
-# Project 2. Predicting house prices with machine learning methods
+# Predicting house prices with machine learning methods
 Fintech Bootcamp Project 2
 
 > # Our project is a fintech tool that can be utilized by both private and public sectors to analyze current markets and predict future value within specific states. 
